@@ -1,6 +1,8 @@
 # The ReadMe Part
 
-I don't really know why I'm writing this, I'm just doing it for Hack Club, really. I mean, I don't know a whole lot about CSS or HTML, but Rodariko and Eff taught me a couple things before.
+What do I put here?
+
+i got no clue
 
 ## Preview
 
